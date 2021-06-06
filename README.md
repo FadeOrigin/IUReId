@@ -1,5 +1,6 @@
 # Illumination Unification for Person Re-Identification
 
+Code for reproducing the results of our Illumination Unification for Person Re-Identification paper.
 
 ## Environment
 
