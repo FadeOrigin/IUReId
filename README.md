@@ -11,9 +11,13 @@ The code has been tested on Pytorch 1.7.1 and Python 3.8.
 **IRR
 
 python train.py --dataroot ./datasets/Market_GammaAdaptationGANTrain_100to30 --name Market_GammaAdaptationGANTrain_100to30 --illA 100 --illB 30
+
 python train.py --dataroot ./datasets/Market_GammaAdaptationGANTrain_100to40 --name Market_GammaAdaptationGANTrain_100to40 --illA 100 --illB 40
+
 python train.py --dataroot ./datasets/Market_GammaAdaptationGANTrain_100to50 --name Market_GammaAdaptationGANTrain_100to50 --illA 100 --illB 50
+
 ...
+
 python train.py --dataroot ./datasets/Market_GammaAdaptationGANTrain_100to330 --name Market_GammaAdaptationGANTrain_100to330 --illA 100 --illB 330
 
 **IE
