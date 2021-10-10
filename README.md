@@ -6,6 +6,10 @@ Code for reproducing the results of our Illumination Unification for Person Re-I
 
 The code has been tested on Pytorch 1.7.1 and Python 3.8.
 
+## Generate Illumination-Adaptive Datasets
+
+Execute GenerateMixedGammaCorrectionDataset.py and GenerateMixedGammaCorrectionDataset_Smooth.py to generate illumination-adaptive datasets.
+
 ## Train and test
 
 **IRR
